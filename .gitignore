@@ -1,0 +1,8 @@
+/settings/
+/html/
+/Debug/
+.vscode
+
+# IAR Files
+*.dep
+*.ewd
